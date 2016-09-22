@@ -1,19 +1,9 @@
 <div class="social-links">
-    {% if site.facebook %}
-        <a class="link" data-title="facebook.com/{{ site.facebook }}" href="http://facebook.com/{{ site.facebook }}" target="_blank">
-            <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
-        </a>
-    {% endif %}
+    
 
     {% if site.twitter %}
         <a class="link" data-title="twitter.com/{{ site.twitter }}" href="http://twitter.com/{{ site.twitter }}" target="_blank">
             <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.google %}
-        <a class="link" data-title="plus.google.com/+{{ site.google }}" href="http://plus.google.com/+{{ site.google }}" target="_blank">
-            <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
         </a>
     {% endif %}
 
@@ -23,27 +13,9 @@
         </a>
     {% endif %}
 
-    {% if site.pinterest %}
-        <a class="link" data-title="pinterest.com/{{ site.pinterest }}" href="http://pinterest.com/{{ site.pinterest }}" target="_blank">
-            <svg class="icon icon-pinterest"><use xlink:href="#icon-pinterest"></use></svg>
-        </a>
-    {% endif %}
-
     {% if site.linkedin %}
         <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">
             <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.youtube %}
-        <a class="link" data-title="youtube.com/{{ site.youtube }}" href="http://youtube.com/{{ site.youtube }}" target="_blank">
-            <svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.spotify %}
-        <a class="link" data-title="open.spotify.com/user/{{ site.spotify }}" href="https://open.spotify.com/user/{{ site.spotify }}" target="_blank">
-            <svg class="icon icon-spotify"><use xlink:href="#icon-spotify"></use></svg>
         </a>
     {% endif %}
 
@@ -58,7 +30,37 @@
             <svg class="icon icon-medium"><use xlink:href="#icon-medium"></use></svg>
         </a>
     {% endif %}
+    
+    {% if site.google %}
+        <a class="link" data-title="plus.google.com/+{{ site.google }}" href="http://plus.google.com/+{{ site.google }}" target="_blank">
+            <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
+        </a>
+    {% endif %}
+    
+    {% if site.facebook %}
+        <a class="link" data-title="facebook.com/{{ site.facebook }}" href="http://facebook.com/{{ site.facebook }}" target="_blank">
+            <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
+        </a>
+    {% endif %}
 
+    {% if site.pinterest %}
+        <a class="link" data-title="pinterest.com/{{ site.pinterest }}" href="http://pinterest.com/{{ site.pinterest }}" target="_blank">
+            <svg class="icon icon-pinterest"><use xlink:href="#icon-pinterest"></use></svg>
+        </a>
+    {% endif %}
+    
+    {% if site.youtube %}
+        <a class="link" data-title="youtube.com/{{ site.youtube }}" href="http://youtube.com/{{ site.youtube }}" target="_blank">
+            <svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.spotify %}
+        <a class="link" data-title="open.spotify.com/user/{{ site.spotify }}" href="https://open.spotify.com/user/{{ site.spotify }}" target="_blank">
+            <svg class="icon icon-spotify"><use xlink:href="#icon-spotify"></use></svg>
+        </a>
+    {% endif %}
+    
     {% if site.vimeo %}
         <a class="link" data-title="vimeo.com/{{ site.vimeo }}" href="https://vimeo.com/{{ site.vimeo }}" target="_blank">
             <svg class="icon icon-vimeo"><use xlink:href="#icon-vimeo"></use></svg>
