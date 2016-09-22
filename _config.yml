@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Stéphane Juban
+bio: You can found me in a lot of different place, here are just a few...
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: http://koppl.in/indigo
+url: https://stephanejuban.github.io/stephanejuban
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -26,47 +26,42 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# google: mygoogle
-# instagram: myinstagram
+facebook: stephane.juban
+twitter: StephaneJuban
+google: StephaneJuban
+instagram: stephanejuban
+linkedin: StephaneJuban
+github: StephaneJuban
+medium: StephaneJuban
+email: stephane.juban@gmail.com
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+# youtube: myyoutube
+# spotify: myspotify
+#vimeo: myvimeo
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    stephanejuban:
+        name: Stéphane Juban
+        bio: Always looking to make people's life easier and fun!
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: StephaneJuban
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: false
