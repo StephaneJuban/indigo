@@ -29,18 +29,18 @@ highlighter: rouge
 disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: stephane.juban
 twitter: StephaneJuban
-google: StephaneJuban
 instagram: stephanejuban
 linkedin: StephaneJuban
 github: StephaneJuban
 medium: StephaneJuban
+google: StephaneJuban
+facebook: stephane.juban
 email: stephane.juban@gmail.com
 # pinterest: mypinterest
 # youtube: myyoutube
 # spotify: myspotify
-#vimeo: myvimeo
+# vimeo: myvimeo
 
 authors:
     stephanejuban:
@@ -65,7 +65,7 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: false
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
