@@ -8,7 +8,7 @@ layout: page
         
         <p>Hi !</p>
 
-		<p>I'm Stéphane Juban, I'm 27 and I'm a computer science engineer. I live somewhere in France with my amazing wife Morgane and my two little hairy monsters : Chipo & Chouquette.</p>
+		<p>I'm Stéphane Juban, I'm 28 and I'm a computer science engineer. I live somewhere in France with my amazing wife Morgane and my two little hairy monsters : Chipo & Chouquette.</p>
 		
     </div>
 
@@ -18,7 +18,7 @@ layout: page
     </div>
 </div>
 
-<p>I love to create things and give life to my ideas. I'm currently building a company with my wife and this is awesome because the best part is that we both are novice in this adventure !</p>
+<p>I love to create things and give life to my ideas. I'm currently building a startup with my wife and this is a great adventure ! We are on a mission to help veterinarians and horse owner to better protect their horses from illness...</p>
 
 
 <hr>
@@ -26,7 +26,7 @@ layout: page
 
 <p>Topics that I care about involve : #startup, #entrepreneur, #tech, #music, #photography, #motoGP</p>
 		
-<p>For 2016, I challenged myself to do a Project 366, you can found it <a href="https://flic.kr/s/aHskoyokGG">here</a> is you are curious enough.</p>
+<p>For 2016, I challenged myself to do a Project 366, you can found it <a href="https://flic.kr/s/aHskoyokGG">here</a> is you are curious enough. BTW, I succeeded !</p>
 
 <p>Other than that, I'm a former motorcycle rider, former Data Engineer from the MotoGP World Championship but I still enjoy a lot watching races, I'm a competitor at heart.</p>
 
